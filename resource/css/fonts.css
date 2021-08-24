@@ -1,0 +1,29 @@
+@font-face {
+	font-family: 'Wentrisor';
+	font-style: normal;
+	font-weight: normal;
+	src: local('Wentrisor'),
+		url('../fonts/Wentrisor/Wentrisor.woff2') format('woff2'), 
+		url('../fonts/Wentrisor/Wentrisor.woff') format('woff'),
+		url('../fonts/Wentrisor/Wentrisor.ttf') format('ttf'),
+		url('../fonts/Wentrisor/Wentrisor.eot') format('eot');
+}
+@font-face {
+	font-family: 'Campus Grav';
+	font-style: normal;
+	font-weight: normal;
+	src: local('Campus Grav'),
+		url('../fonts/Campus Grav/Campus Grav.woff') format('woff'),
+		url('../fonts/Campus Grav/Campus Grav.ttf') format('ttf'),
+		url('../fonts/Campus Grav/Campus Grav.eot') format('eot');
+}
+
+@font-face {
+	font-family: 'Roboto';
+	font-style: normal;
+	font-weight: normal;
+	src: local('Roboto'),
+		url('../fonts/Roboto/Roboto-Black.ttf') format('ttf'),
+		url('../fonts/Roboto/Roboto-Light.ttf') format('ttf'),
+		url('../fonts/Roboto/Roboto-Regular.ttf') format('ttf');
+}
